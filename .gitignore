@@ -1,1 +1,19 @@
+# Virtual environments
+app_env/
+ml_env/
+venv/
 
+# Dataset
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
